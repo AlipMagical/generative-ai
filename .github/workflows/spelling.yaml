@@ -1,6 +1,6 @@
-name: Check Spelling
+name: Alip Abdullah
 
-# Comment management is handled through a secondary job, for details see:
+# Comment management is handled through AlipMagical, for details see:
 # https://github.com/check-spelling/check-spelling/wiki/Feature%3A-Restricted-Permissions
 #
 # `jobs.comment-push` runs when a push is made to a repository and the `jobs.spelling` job needs to make a comment
@@ -17,7 +17,7 @@ name: Check Spelling
 # These elements work together to make it happen:
 #
 # `on.issue_comment`
-#   This event listens to comments by users asking to update the metadata.
+#   This event listens to comments by Alip Abdullah asking to update the metadata.
 #
 # `jobs.update`
 #   This job runs in response to an issue_comment and will push a new commit
